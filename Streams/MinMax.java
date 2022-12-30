@@ -21,8 +21,18 @@ public class MinMax {
         if (alun1.nota < alun2.nota) return -1;
         return 0;
     };
+    Comparator<Aluno> piornota = (alun1, alun2) -> {
+        if (alun1.nota > alun2.nota) return -1;
+        if (alun1.nota < alun2.nota) return 1;
+        return 0;
+    };
 
     System.out.println(alunos.stream().max(melhornota).get());
+    System.out.println(alunos.stream().min(piornota).get());
+
+    System.out.println(alunos.stream().max(piornota).get());
+    System.out.println(alunos.stream().min(melhornota).get());
+
 
 }
 }
