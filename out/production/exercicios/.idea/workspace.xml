@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09462b97-55ba-4f41-b9ae-f48bde8e90c6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FDWij8shqnURAVptOaGKEDvfsN" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive - Educacional\Desktop\Udemy\Java\Java Workspace\Curso-Java\exercicios\src\Lambidas\Calculo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive - Educacional\Desktop\Udemy\Java\Java Workspace\Curso-Java\exercicios\src\OO1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lambidas.Calculo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ImprimindoObjetos">
+    <configuration name="DesafioBinarysCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambidas.Desafio.DesafioBinarysCurso" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambidas.Desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioBinarysMeu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambidas.Desafio.DesafioBinarysMeu" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambidas.Desafio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprimindoObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamAPI.ImprimindoObjetos" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.ProdutoTeste" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Threads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambidas.Threads" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImprimindoObjetos" />
+        <item itemvalue="Application.Threads" />
+        <item itemvalue="Application.DesafioBinarysMeu" />
+        <item itemvalue="Application.DesafioBinarysCurso" />
+        <item itemvalue="Application.ProdutoTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09462b97-55ba-4f41-b9ae-f48bde8e90c6" name="Changes" comment="" />
+      <created>1664027263714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664027263714</updated>
+      <workItem from="1665265580560" duration="142000" />
+      <workItem from="1665265988438" duration="91000" />
+      <workItem from="1666616340931" duration="12014000" />
+      <workItem from="1667413975946" duration="457000" />
+      <workItem from="1667414517468" duration="1529000" />
+      <workItem from="1667416181621" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
