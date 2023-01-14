@@ -13,6 +13,7 @@ public class basico {
             System.out.println(7 / 0);
         } catch (ArithmeticException e) {
             System.out.println("Dividir por zero da nada BLEEEH XD");
+            
         }
 
         System.out.println("Fim :)");
