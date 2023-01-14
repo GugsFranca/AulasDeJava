@@ -6,7 +6,7 @@ import java.util.HashSet;
 public class ConjuntoBaguncado {
     public static void main(String[] args) {
 
-        HashSet conjunto = new HashSet();
+        HashSet<Object> conjunto = new HashSet<>();
 
         conjunto.add(1.2); //double -> Double
         conjunto.add(true);
@@ -24,7 +24,7 @@ public class ConjuntoBaguncado {
         System.out.println(conjunto.contains('x'));
         System.out.println(conjunto.contains(1));
 
-        HashSet nums = new HashSet();
+        HashSet<Object> nums = new HashSet<>();
         nums.add(1);
         nums.add(2);
         nums.add(3);

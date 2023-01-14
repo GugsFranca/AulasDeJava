@@ -23,6 +23,7 @@ public class DesafioBinarysMeu {
         String preco = arredondado.format(calculo
                 .andThen(imposto)
                 .andThen(frete)
+                .andThen(formatar)
                 .apply(p.preco, Produto.getDesconto()));
 
         System.out.println("R$" + preco.replace(".", ","));

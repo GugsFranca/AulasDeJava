@@ -3,7 +3,7 @@ package classe;
 public class Produto {
 
 	public String nome;
-	public  double preco;
+	public double preco;
 	public static double desconto;
 
 	Produto() {

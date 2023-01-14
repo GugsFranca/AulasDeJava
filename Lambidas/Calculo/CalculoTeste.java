@@ -1,8 +1,5 @@
 package Lambidas.Calculo;
 
-import Lambidas.Calculo.Multiplicar;
-import Lambidas.Calculo.Soma;
-
 public class CalculoTeste {
     public static void main(String[] args) {
         Calculo soma = new Soma();
