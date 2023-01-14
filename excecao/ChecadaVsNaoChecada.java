@@ -1,6 +1,5 @@
 package excecao;
 
-import javax.management.RuntimeErrorException;
 
 public class ChecadaVsNaoChecada {
     public static void main(String[] args) {
