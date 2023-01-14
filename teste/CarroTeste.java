@@ -9,6 +9,7 @@ public class CarroTeste {
 
         ferrari.acelerar();
         ferrari.acelerar();
+        civic.acelerar();
 
         System.out.println(ferrari);
 

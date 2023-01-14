@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 public class CriandoStreams {
     public static void main(String[] args) {
         Consumer<String> print = System.out::print; //O consumer não retorna nada logo posso referenciar
-        Consumer<Object> println = System.out::println; //O consumer não retorna nada logo posso referenciar
+      //  Consumer<Object> println = System.out::println; //O consumer não retorna nada logo posso referenciar
 
         System.out.println("\n//Stream.of na propria Stream");
         Stream<String> langs = Stream.of("Java ", "Lua ","JS\n");
