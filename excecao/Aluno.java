@@ -1,8 +1,9 @@
 package excecao;
 
 public class Aluno {
-    final String nome;
-    final float nota;
+
+    public final String nome;
+    public final float nota;
 
     public Aluno(String nome, float nota){
         this.nome = nome;
