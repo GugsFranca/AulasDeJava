@@ -1,6 +1,22 @@
 {
     "java.dependency.packagePresentation": "hierarchical",
     "cSpell.words": [
-        "bruh"
+        "bruh",
+        "populacao"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "root",
+            "password": "gustavo10",
+            "name": "Aprendendo",
+            "database": "wm"
+        }
     ]
 }
